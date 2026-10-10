@@ -146,3 +146,4 @@ An AI-assisted study companion exploring retrieval-augmented generation and LLM-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
+
