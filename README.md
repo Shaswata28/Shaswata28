@@ -1,144 +1,118 @@
-&lt;!-- Repository: Shaswata28/Shaswata28 --&gt;
-&lt;div align=&quot;center&quot;&gt;
-&lt;img src=&quot;https://capsule-
-render.vercel.app/api?type=rect&amp;color=FFE600&amp;height=190&amp;section=header&amp;text=SHASWATA%20DAS&amp;fontSize=54
-&amp;fontColor=000000&amp;fontAlignY=42&amp;desc=%5B+SOFTWARE+ENGINEER+%2F%2F+AI%2BML+RESEARCHER+%5D&amp;descSize=15&amp;d
-escColor=000000&amp;descAlignY=72&quot; width=&quot;100%&quot; alt=&quot;Header Banner&quot; /&gt;
-&lt;br/&gt;
-&lt;a href=&quot;https://github.com/Shaswata28&quot;&gt;
-&lt;img src=&quot;https://readme-typing-
-svg.demolab.com?font=Space+Mono&amp;weight=700&amp;size=18&amp;duration=2500&amp;pause=900&amp;color=FFE600&amp;background=000
-00000&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%24+whoami+%E2%86%92+Full-
-Stack+Engineer+%26+ML+Researcher;Building+scalable%2C+high-
-impact+software.;Federated+Learning+%C3%97+Medical+Vision-
+ <!-- Repository: Shaswata28/Shaswata28 -->
 
-Language+Models.;Shipping+code.+Iterating+fast.&quot; alt=&quot;Typing SVG&quot; /&gt;
-&lt;/a&gt;
-&lt;br/&gt;
-[![PROFILE VIEWS](https://img.shields.io/badge/VISITORS-COUNT-FFE600?style=for-the-
-badge&amp;logo=eye&amp;logoColor=000000&amp;labelColor=000000)](https://github.com/Shaswata28)
-[![REPOS](https://img.shields.io/badge/REPOSITORIES-EXPLORE-00FFA3?style=for-the-
-badge&amp;logo=git&amp;logoColor=000000&amp;labelColor=000000)](https://github.com/Shaswata28?tab=repositories)
-[![FOLLOWERS](https://img.shields.io/github/followers/Shaswata28?style=for-the-
-badge&amp;logo=github&amp;color=00F0FF&amp;logoColor=000000&amp;labelColor=000000)](https://github.com/Shaswata28)
-&lt;/div&gt;
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFE600&height=190&section=header&text=SHASWATA%20DAS&fontSize=54&fontColor=000000&fontAlignY=42&desc=%5B+SOFTWARE+ENGINEER+%2F%2F+AI%2BML+RESEARCHER+%5D&descSize=15&descColor=000000&descAlignY=72" width="100%" alt="Header Banner" />
+
+<br/>
+
+<a href="https://github.com/Shaswata28">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=900&color=FFE600&background=00000000&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Full-Stack+Engineer+%26+ML+Researcher;Building+scalable%2C+high-impact+software.;Federated+Learning+%C3%97+Medical+Vision-Language+Models.;Shipping+code.+Iterating+fast." alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![PROFILE VIEWS](https://img.shields.io/badge/VISITORS-COUNT-FFE600?style=for-the-badge&logo=eye&logoColor=000000&labelColor=000000)](https://github.com/Shaswata28)
+[![REPOS](https://img.shields.io/badge/REPOSITORIES-EXPLORE-00FFA3?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)](https://github.com/Shaswata28?tab=repositories)
+[![FOLLOWERS](https://img.shields.io/github/followers/Shaswata28?style=for-the-badge&logo=github&color=00F0FF&logoColor=000000&labelColor=000000)](https://github.com/Shaswata28)
+
+</div>
+
 ---
-### ▓▓ 01 // SYSTEM DOSSIER
+
+## ▓▓ 01 // SYSTEM DOSSIER
+
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│ USER IDENTIFIER : Shaswata Das │
-│ AFFILIATION : East Delta University, Bangladesh │
-│ DOMAIN : Computer Science &amp; Engineering │
-│ DISCIPLINES : Full-Stack Systems • Edge AI • Distributed ML │
+│  USER IDENTIFIER : Shaswata Das                                        │
+│  AFFILIATION     : East Delta University, Bangladesh                   │
+│  DOMAIN          : Computer Science & Engineering                      │
+│  DISCIPLINES     : Full-Stack Systems • Edge AI • Distributed ML        │
 ├────────────────────────────────────────────────────────────────────────┤
-│ CORE RESEARCH : Privacy-Preserving AI for Medical Segmentation │
-│ CURRENT FOCUS : Federated Learning • Vision-Language Models (VLMs) │
-│ ARCHITECTURE : Modular, High-Performance, Production-Ready │
-│ STATUS : Active Builder &amp; Researcher │
+│  CORE RESEARCH   : Privacy-Preserving AI for Medical Segmentation       │
+│  CURRENT FOCUS   : Federated Learning • Vision-Language Models (VLMs)   │
+│  ARCHITECTURE    : Modular, High-Performance, Production-Ready          │
+│  STATUS          : Active Builder & Researcher                         │
 └────────────────────────────────────────────────────────────────────────┘
 ```
----
-### ▓▓ 02 // TECH ARSENAL
-&lt;div align=&quot;center&quot;&gt;
+
+## ▓▓ 02 // TECH ARSENAL
+
 | DOMAIN | TECHNOLOGIES |
-| :--- | :--- |
-| **CORE LANGUAGES** | `JavaScript` `TypeScript` `Python` `Dart` `C++` `Bash` |
-| **FRONTEND &amp; MOBILE** | `React` `Next.js` `Flutter` `React Native` `TailwindCSS` |
-| **BACKEND &amp; DATA** | `Node.js` `Express` `MongoDB` `Supabase` `PostgreSQL` |
-| **AI / ML &amp; RESEARCH** | `PyTorch` `Federated Learning` `LoRA / PEFT` `Computer Vision` `LLMs` |
-| **SYSTEMS &amp; DEVOPS** | `Docker` `Linux / Fedora` `Git` `Ollama` `n8n` |
-&lt;br/&gt;
-&lt;img
-src=&quot;https://skillicons.dev/icons?i=js,ts,py,dart,cpp,react,nextjs,flutter,nodejs,express,mongodb,supa
-base,pytorch,docker,linux,git&amp;perline=8&amp;theme=dark&quot; alt=&quot;Tech Stack Icons&quot; /&gt;
-&lt;/div&gt;
+|:---|:---|
+| **CORE LANGUAGES** | JavaScript · TypeScript · Python · Dart · C++ · Bash |
+| **FRONTEND & MOBILE** | React · Next.js · Flutter · React Native · Tailwind CSS |
+| **BACKEND & DATA** | Node.js · Express · MongoDB · Supabase · PostgreSQL |
+| **AI / ML & RESEARCH** | PyTorch · Federated Learning · LoRA / PEFT · Computer Vision · LLMs |
+| **SYSTEMS & DEVOPS** | Docker · Linux / Fedora · Git · Ollama · n8n |
+
+## ▓▓ 03 // FEATURED WORK & EXPERIMENTS
+
+### 🪙 EDU COIN
+**Decentralized Campus Payment System**
+
+A university digital-token transaction platform designed for campus commerce, including canteen, library, laboratory, and club payments.
+
+**➔** [ACCESS REPOSITORY](https://github.com/Shaswata28/EDU-COIN)
 
 ---
-### ▓▓ 03 // FEATURED WORK &amp; EXPERIMENTS
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
-### �� EDU COIN
-&gt; **Decentralized Campus Payment System**
-A high-throughput university digital-token transaction platform built to handle campus commerce:
-canteen, library, laboratory, and club fees.
-[![Stack](https://img.shields.io/badge/STACK-REACT%20%7C%20NODE%20%7C%20SUPABASE-FFE600?style=flat-
-square&amp;color=000000&amp;labelColor=FFE600)](https://github.com/Shaswata28/EDU-COIN)
-[**➔ ACCESS REPOSITORY**](https://github.com/Shaswata28/EDU-COIN)
-&lt;/td&gt;
-&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
-### �� PRIVACY-PRESERVING MEDICAL AI
-&gt; **Federated Learning for Glioma Segmentation**
-Decentralized medical AI leveraging brain MRI datasets, parameter-efficient vision-language adaptation
-(LoRA), and communication-efficient aggregation algorithms.
-[![Stack](https://img.shields.io/badge/STACK-PYTORCH%20%7C%20FEDPROX%20%7C%20LoRA-00FFA3?style=flat-
-square&amp;color=000000&amp;labelColor=00FFA3)](#)
-[**➔ VIEW RESEARCH OVERVIEW**](https://github.com/Shaswata28)
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
-### �� STUDYMATE
-&gt; **AI-Assisted Knowledge Engine**
-An intelligent multimodal learning workspace implementing retrieval-augmented generation (RAG) and
-local LLM routing for context-aware academic exploration.
-[![Stack](https://img.shields.io/badge/STACK-RAG%20%7C%20LLM%20%7C%20FULL--STACK-00F0FF?style=flat-
-square&amp;color=000000&amp;labelColor=00F0FF)](#)
-[**➔ EXPLORE PROJECT**](https://github.com/Shaswata28)
-&lt;/td&gt;
-&lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
-### �� EVENTFLOW CRM
-&gt; **Workflow &amp; Event Operations Engine**
-An end-to-end management platform engineered to streamline scheduling, team allocation, stakeholder
 
-outreach, and logistical pipelines.
-[![Stack](https://img.shields.io/badge/STACK-FULL--STACK%20%7C%20BACKEND-FF2A5F?style=flat-
-square&amp;color=000000&amp;labelColor=FF2A5F)](#)
-[**➔ BROWSE ARCHIVE**](https://github.com/Shaswata28?tab=repositories)
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+### 🧠 PRIVACY-PRESERVING MEDICAL AI
+**Federated Learning for Glioma Segmentation**
+
+Decentralized medical AI research leveraging brain MRI datasets, parameter-efficient vision-language adaptation with LoRA, and communication-efficient aggregation algorithms.
+
+**➔** [VIEW RESEARCH OVERVIEW](https://github.com/Shaswata28)
+
 ---
-### ▓▓ 04 // CURRENT SPRINT
+
+### 📚 STUDYMATE
+**AI-Assisted Knowledge Engine**
+
+An intelligent learning workspace implementing retrieval-augmented generation (RAG) and local LLM routing for context-aware academic exploration.
+
+**➔** [EXPLORE PROJECTS](https://github.com/Shaswata28?tab=repositories)
+
+---
+
+### 📅 EVENTFLOW CRM
+**Workflow & Event Operations Engine**
+
+An end-to-end management platform designed to streamline scheduling, team allocation, stakeholder outreach, and event logistics.
+
+**➔** [BROWSE PROJECTS](https://github.com/Shaswata28?tab=repositories)
+
+## ▓▓ 04 // CURRENT SPRINT
+
 ```diff
-! ACTIVE RESEARCH : Residual SVD aggregation &amp; multi-modal medical segmentation
-+ ENGINEERING : Cross-platform utilities &amp; automated workflow pipelines
-# EXPLORING : Parameter-efficient model tuning &amp; edge AI deployment
-- BACKLOG : Zero stagnation. Constant iteration.
+! ACTIVE RESEARCH : Residual SVD aggregation & multimodal medical segmentation
++ ENGINEERING     : Cross-platform utilities & automated workflow pipelines
+# EXPLORING       : Parameter-efficient model tuning & edge AI deployment
+- BACKLOG         : Zero stagnation. Constant iteration.
 ```
----
-### ▓▓ 05 // TELEMETRY &amp; METRICS
-&lt;div align=&quot;center&quot;&gt;
-&lt;img height=&quot;175&quot; src=&quot;https://github-readme-
-stats.vercel.app/api?username=Shaswata28&amp;show_icons=true&amp;hide_border=false&amp;border_radius=0&amp;border_colo
-r=FFE600&amp;bg_color=0D1117&amp;title_color=FFE600&amp;icon_color=00F0FF&amp;text_color=FFFFFF&amp;rank_icon=github&quot;
-alt=&quot;GitHub Stats&quot; /&gt;
-&lt;img height=&quot;175&quot; src=&quot;https://github-readme-stats.vercel.app/api/top-
-langs/?username=Shaswata28&amp;layout=compact&amp;hide_border=false&amp;border_radius=0&amp;border_color=FFE600&amp;bg_col
-or=0D1117&amp;title_color=FFE600&amp;text_color=FFFFFF&quot; alt=&quot;Top Languages&quot; /&gt;
-&lt;br/&gt;
-&lt;img src=&quot;https://github-readme-streak-
-stats.herokuapp.com/?user=Shaswata28&amp;background=0D1117&amp;border=FFE600&amp;stroke=FFE600&amp;ring=FFE600&amp;fire=FF
-2A5F&amp;currStreakLabel=00F0FF&amp;sideLabels=FFFFFF&amp;currStreakNum=FFE600&amp;sideNums=FFE600&amp;dates=8B949E&amp;border
-_radius=0&quot; alt=&quot;Streak Stats&quot; /&gt;
-&lt;br/&gt;
-&lt;img src=&quot;https://github-readme-activity-
-graph.vercel.app/graph?username=Shaswata28&amp;bg_color=0D1117&amp;color=FFE600&amp;line=00F0FF&amp;point=FF2A5F&amp;area=
-true&amp;area_color=FFE600&amp;hide_border=false&amp;border_radius=0&quot; width=&quot;100%&quot; alt=&quot;Activity Graph&quot; /&gt;
-&lt;/div&gt;
----
 
-### ▓▓ 06 // TRANSMISSION
-&lt;div align=&quot;center&quot;&gt;
-[![GITHUB](https://img.shields.io/badge/GITHUB-Shaswata28-FFE600?style=for-the-
-badge&amp;logo=github&amp;logoColor=000000&amp;labelColor=000000)](https://github.com/Shaswata28)
-[![REPOSITORIES](https://img.shields.io/badge/SOURCE-CODE-00FFA3?style=for-the-
-badge&amp;logo=git&amp;logoColor=000000&amp;labelColor=000000)](https://github.com/Shaswata28?tab=repositories)
-[![STATUS](https://img.shields.io/badge/STATUS-OPEN%20FOR%20COLLABS-00F0FF?style=for-the-
-badge&amp;logo=statuspage&amp;logoColor=000000&amp;labelColor=000000)](https://github.com/Shaswata28)
-&lt;br/&gt;
-`BUILDING INTENTIONALLY. SHIPPING OFTEN.`
-&lt;br/&gt;
-&lt;img src=&quot;https://capsule-render.vercel.app/api?type=rect&amp;color=FFE600&amp;height=24&amp;section=footer&quot;
-width=&quot;100%&quot; alt=&quot;Footer Bar&quot; /&gt;
-&lt;/div&gt;
+## ▓▓ 05 // TELEMETRY & METRICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shaswata28&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFE600&text_color=FFFFFF&icon_color=FFE600" height="165" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaswata28&layout=compact&hide_border=true&bg_color=00000000&title_color=FFE600&text_color=FFFFFF" height="165" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Shaswata28&hide_border=true&background=00000000&ring=FFE600&fire=FF6B00&currStreakLabel=FFE600&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%" alt="GitHub Contribution Streak" />
+
+</div>
+
+## ▓▓ 06 // TRANSMISSION
+
+<div align="center">
+
+**BUILDING INTENTIONALLY. SHIPPING OFTEN.**
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-SHASWATA28-FFE600?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/Shaswata28)
+
+</div>
