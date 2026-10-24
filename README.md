@@ -1,172 +1,153 @@
- <!-- Shaswata28/Shaswata28 — Dynamic GitHub Profile README -->
+<!-- Shaswata28/Shaswata28 — Cyber-Industrial Telemetry & Research README -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:FFE600&height=220&section=header&text=SHASWATA%20DAS&fontSize=58&fontColor=FFE600&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%2F%2F%20AI%20RESEARCHER&descSize=16&descAlignY=59&descColor=FFFFFF&animation=fadeIn" />
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,60:111111,100:FFE600&height=210&section=header&text=SHASWATA%20DAS&fontSize=56&fontColor=FFE600&fontAlignY=42&desc=FULL-STACK%20ARCHITECT%20%2F%2F%20FEDERATED%20AI%20RESEARCHER%20%2F%2F%20SYSTEMS%20BUILDER&descSize=14&descAlignY=65&descColor=FFFFFF&animation=twinkling&stroke=000000&strokeWidth=2" alt="Header Banner" />
 
+<!-- TERMINAL TYPING SVG -->
 <a href="https://github.com/Shaswata28">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=800&color=FFE600&center=true&vCenter=true&width=700&height=55&lines=%24+whoami+%E2%86%92+Shaswata+Das;Full-Stack+Engineer+%7C+AI%2FML+Researcher;Federated+Learning+%C3%97+Medical+AI;Building.+Breaking.+Improving." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=FFE600&center=true&vCenter=true&width=780&height=50&lines=%24+uname+-a+%E2%86%92+Fedora+Linux+x86_64+%7C+Shaswata+Das;Federated+Vision-Language+Models+%C3%97+Residual+SVD;Full-Stack+Engineering+%28Next.js+%E2%80%A2+Flutter+%E2%80%A2+Supabase%29;Local+AI+Orchestration+%28Ollama+%E2%80%A2+n8n+%E2%80%A2+Docker%29;Building+Intentionally.+Breaking+Bottlenecks.+Shipping+Often." alt="Terminal Output" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Shaswata28"><img src="https://img.shields.io/badge/PROFILE-FFE600?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" /></a>
-<a href="https://github.com/Shaswata28?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" /></a>
-<a href="https://github.com/Shaswata28?tab=followers"><img src="https://img.shields.io/github/followers/Shaswata28?style=for-the-badge&logo=github&label=FOLLOWERS&color=FFE600&labelColor=000000" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Shaswata28&style=for-the-badge&color=FFE600&label=PROFILE+VISITS" alt="Profile visits" />
+<!-- HUD STATUS BAR -->
+<a href="https://github.com/Shaswata28"><img src="https://img.shields.io/badge/SYS.STATUS-ONLINE-FFE600?style=for-the-badge&logo=linux&logoColor=000000&labelColor=0D1117" /></a>
+<a href="https://github.com/Shaswata28?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117" /></a>
+<a href="https://github.com/Shaswata28?tab=followers"><img src="https://img.shields.io/github/followers/Shaswata28?style=for-the-badge&logo=github&label=NETWORK&color=FFE600&labelColor=0D1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=Shaswata28&style=for-the-badge&color=FFE600&label=TELEMETRY+HITS&labelColor=0D1117" alt="Profile visits" />
 
 </div>
 
+<br/>
+
 ---
+
+## `01` // SYSTEM_MANIFEST & TELEMETRY
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-## `01` / ABOUT ME
-
 ```yaml
-name: Shaswata Das
-university: East Delta University
-degree: B.Sc. Computer Science
-focus:
-  - Full-Stack Engineering
-  - Federated Learning
-  - Medical AI
-  - Edge AI
-currently: Building & Researching
+$ cat /etc/shaswata/manifest.yaml
+
+operator: Shaswata Das
+institution: East Delta University (B.Sc. CS)
+os_env: Fedora Linux // Custom Bash & GPU Pipelines
+architecture:
+  full_stack: [Next.js, Flutter, React Native, Supabase]
+  ai_research:
+    - Federated Learning (Non-IID Clinical Silos)
+    - Medical VLMs (LLaVA-Med, MedGemma)
+    - Parameter-Efficient Tuning (LoRA / Residual SVD)
+    - Multimodal Brain MRI Segmentation (BraTS)
+  automation: [n8n, Local Ollama LLMs, Docker]
+philosophy: "Privacy-preserving intelligence + high-velocity product engineering."
+
+
+## `02` // RESEARCH_SPOTLIGHT: FEDERATED MEDICAL AI
+
+> **Privacy-Preserving Glioma Segmentation & Vision-Language Adaptation**
+> 
+>   
+> 
+> Investigating communication-efficient federated learning across non-IID hospital silos on multimodal brain MRI (**BraTS**), leveraging **LLaVA-Med** & **MedGemma** with low-rank adaptation and custom **Residual SVD Aggregation**.
+> 
+>   
+
+Code snippet
+
+```
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#0D1117', 'primaryTextColor': '#FFFFFF', 'primaryBorderColor': '#FFE600', 'lineColor': '#FFE600', 'secondaryColor': '#161B22', 'tertiaryColor': '#0D1117'}}}%%
+flowchart LR
+    subgraph Silos["🏥 Non-IID Clinical Silos (BraTS MRI)"]
+        H1["Client 01\nLLaVA-Med / MedGemma\n+ Local LoRA"]
+        H2["Client 02\nLLaVA-Med / MedGemma\n+ Local LoRA"]
+        H3["Client N\nLLaVA-Med / MedGemma\n+ Local LoRA"]
+    end
+
+    subgraph Engine["⚡ Aggregation Server"]
+        SVD["Residual SVD\nDecomposition & Compression"]
+        GLOBAL["Global Adapter\nReconstruction"]
+    end
+
+    H1 -- "ΔW (Low-Rank Updates)" --> SVD
+    H2 -- "ΔW (Low-Rank Updates)" --> SVD
+    H3 -- "ΔW (Low-Rank Updates)" --> SVD
+    SVD --> GLOBAL
+    GLOBAL -. "Broadcast Global Weights" .-> Silos
 ```
 
-I build practical software systems and explore machine learning research, with a particular interest in privacy-preserving AI and medical vision-language models.
+## `03` // ARSENAL & TOOLKIT
 
-</td>
-<td width="42%" valign="center">
+## `04` // ENGINEERED_SYSTEMS (FEATURED WORK)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shaswata28&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFE600&icon_color=FFE600&text_color=FFFFFF&ring_color=FFE600" width="100%" alt="GitHub statistics" />
+**`EDU-COIN` — Campus Digital Token Ledger**
 
-</td>
-</tr>
-</table>
+  
 
-## `02` / TECH STACK
+Closed-loop university payment ecosystem engineered for seamless campus micro-transactions, student wallets, and vendor settlements.
 
-<div align="center">
+  
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,dart,react,nextjs,nodejs,express,tailwind,flutter,mongodb,postgres,supabase,docker,linux,git,github,vscode&perline=7&theme=dark" alt="Technology stack" />
+**`EVENTFLOW CRM` — Event Operations Engine**
 
-</div>
+  
 
-<details>
-<summary><b>▸ AI / ML & RESEARCH TOOLKIT</b></summary>
-<br/>
+End-to-end command platform for multi-track scheduling, cross-team coordination, stakeholder pipelines, and live event logistics.
 
-<div align="center">
+  
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-FFE600?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/Federated%20Learning-161B22?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer%20Vision-161B22?style=flat-square" />
-<img src="https://img.shields.io/badge/LLMs-161B22?style=flat-square" />
-<img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=white" />
+### 📱 `Momentum` — Student Life OS
 
-</div>
-</details>
+`FLUTTER` `DART` `LOCAL-FIRST` `CUSTOM WIDGETS`
 
-## `03` / FEATURED PROJECTS
+  
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A high-craft mobile operating system for students featuring dynamic routine tracking, habit formation telemetry, and personal financial ledger management.
 
-<a href="https://github.com/Shaswata28/EDU-COIN">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaswata28&repo=EDU-COIN&hide_border=true&bg_color=0D1117&title_color=FFE600&icon_color=FFE600&text_color=FFFFFF" width="100%" alt="EDU COIN repository card" />
-</a>
+  
 
-**EDU COIN**
+### 📚 `StudyMate` — Multimodal AI Workspace
 
-A university digital-token payment platform for campus services, transactions, and student payments.
+`NEXT.JS` `SUPABASE` `LOCAL RAG` `OLLAMA`
 
-</td>
-<td width="50%" valign="top">
+  
 
-<a href="https://github.com/Shaswata28?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaswata28&repo=Eventflow&hide_border=true&bg_color=0D1117&title_color=FFE600&icon_color=FFE600&text_color=FFFFFF" width="100%" alt="EventFlow repository card" />
-</a>
+An AI-assisted digital learning workspace built with local LLM routing, context-aware retrieval-augmented generation, and course organization.
 
-**EVENTFLOW CRM**
+  
 
-An event operations platform for scheduling, team coordination, stakeholder management, and logistics.
+### 🧠 `Fed-MedVLM` — Glioma Segmentation
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`PYTORCH` `LLAVA-MED` `MEDGEMMA` `RESIDUAL SVD`
 
-### 🧠 Privacy-Preserving Medical AI
+  
 
-Federated learning for glioma segmentation using multimodal brain MRI, parameter-efficient adaptation, and communication-efficient aggregation.
+Federated learning framework for multimodal brain tumor segmentation across non-IID clinical distributions with communication-efficient weight aggregation.
 
-<a href="https://github.com/Shaswata28?tab=repositories">`VIEW RESEARCH →`</a>
+  
 
-</td>
-<td width="50%" valign="top">
+### 📸 `Lens-e Uthsob 2.0` — National Portal
 
-### 📚 StudyMate
+`FULL-STACK WEB` `HIGH-CONCURRENCY` `MEDIA PIPELINE`
 
-An AI-assisted study workspace exploring retrieval-augmented generation, context-aware learning, and local language models.
+  
 
-<a href="https://github.com/Shaswata28?tab=repositories">`EXPLORE PROJECTS →`</a>
+Official web portal and submission architecture powering a national photography exhibition across 15+ collaborating university clubs.
 
-</td>
-</tr>
-</table>
+  
 
-## `04` / CONTRIBUTION ACTIVITY
+## `05` // ACTIVE_SPRINT_LOG
 
-<div align="center">
+|**STATE**|**MODULE**|**OBJECTIVE & TELEMETRY**|
+|---|---|---|
+||**Federated Medical AI**|Benchmarking Residual SVD aggregation on non-IID BraTS partitions with LLaVA-Med & MedGemma.|
+||**AI Workflow Automation**|Architecting autonomous multi-agent pipelines using Dockerized `n8n` + local `Ollama` instances.|
+||**Full-Stack & Mobile Systems**|Refining cross-platform Flutter & Next.js architectures with real-time Supabase backends.|
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shaswata28&bg_color=0D1117&color=FFE600&line=FFE600&point=FFFFFF&area=true&area_color=FFE600&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" alt="GitHub contribution activity graph" />
+## `06` // COMMIT_GRAPH & STREAK_METRICS
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaswata28&hide_border=true&background=0D1117&ring=FFE600&fire=FFE600&currStreakLabel=FFE600&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="80%" alt="Contribution streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shaswata28&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="100%" alt="GitHub trophies" />
-
-</div>
-
-## `05` / CURRENT SPRINT
-
-<div align="center">
-
-| STATUS | FOCUS |
-|:---:|:---|
-| <img src="https://img.shields.io/badge/ACTIVE-FFE600?style=flat-square&labelColor=000000" /> | Residual SVD aggregation & federated medical AI |
-| <img src="https://img.shields.io/badge/BUILDING-00FFA3?style=flat-square&labelColor=000000" /> | Full-stack systems & workflow automation |
-| <img src="https://img.shields.io/badge/EXPLORING-00D9FF?style=flat-square&labelColor=000000" /> | Edge AI & parameter-efficient model tuning |
-
-</div>
-
-## `06` / TRANSMISSION
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFE600&height=3&section=header&reversal=false" width="100%" alt="" />
-
-### BUILDING INTENTIONALLY. SHIPPING OFTEN.
-
-<a href="https://github.com/Shaswata28">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-000000?style=for-the-badge&logo=github&logoColor=FFE600" alt="Connect on GitHub" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE600,100:000000&height=100&section=footer" width="100%" alt="Footer banner" />
-
-</div>
-
+### `// BUILDING INTENTIONALLY. SHIPPING OFTEN.`
