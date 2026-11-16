@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/Shaswata28/Shaswata28 -->
 
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Shaswata Das — Software Engineer and Applied AI Researcher" />
+  <img src="profile-banner.svg" width="100%" alt="Shaswata Das — Software Engineer and Applied AI Researcher" />
 </p>
 
 <p align="center">
