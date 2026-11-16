@@ -1,21 +1,24 @@
-<!-- Profile README for github.com/Shaswata28/Shaswata28 -->
+<!-- Minimal GitHub profile | Shaswata28 | One accent: teal #14B8A6 -->
 
-<p align="center">
-  <img src="profile-banner.svg" width="100%" alt="Shaswata Das — Software Engineer and Applied AI Researcher" />
+# Shaswata Das
+
+**Software Engineer** · Full-stack & Mobile Development · Applied AI Research
+
+<sub>Based in Chattogram, Bangladesh · Building products, systems, and the occasional robot.</sub>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=1300&amp;color=14B8A6&amp;vCenter=true&amp;width=650&amp;height=36&amp;lines=Building+useful+software.;Exploring+privacy-aware+AI.;From+mobile+apps+to+robotics." alt="Animated introduction: building useful software, exploring privacy-aware AI and robotics" />
 </p>
 
-<p align="center">
-  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
-  <a href="#research">Research</a> &nbsp;·&nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
-  <a href="#connect">Connect</a>
-</p>
+[Projects](#selected-work) · [Tech stack](#tech-stack) · [Research](#research) · [Activity](#github-activity)
 
-## Hello, I'm Shaswata.
+---
 
-I'm a software developer and applied AI researcher based in **Chattogram, Bangladesh**. I enjoy building products end to end — from designing an interface and shaping a backend to integrating AI systems that solve real problems.
+I enjoy turning ambitious ideas into working systems—from **mobile payment apps** and **offline-first tools** to **AI-assisted learning** and **embedded robotics**. I focus on thoughtful product experiences, robust backend engineering, and practical machine learning.
 
-My work sits at the intersection of **full-stack engineering, mobile development, and machine learning research**. I recently completed my undergraduate coursework in Computer Science & Engineering at East Delta University, with a focus on making ambitious ideas useful and reliable.
+- **Building:** production-minded full-stack and mobile applications.
+- **Researching:** federated learning, LoRA, and medical vision-language models.
+- **Interested in:** backend / full-stack / mobile roles and applied AI collaborations.
 
 ## Selected work
 
@@ -23,56 +26,124 @@ My work sits at the intersection of **full-stack engineering, mobile development
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Shaswata28/DeltaCoin">DeltaCoin</a></h3>
-      <p>A mobile wallet experience with QR and peer-to-peer payments, transaction tracking, and personal finance insights.</p>
-      <sub>React Native · Expo · TypeScript · Supabase · Stripe test integration</sub>
+      <sub>FINTECH · REACT NATIVE</sub>
+      <p>A mobile wallet for QR / P2P payments, budgeting, and transaction insights.</p>
+      <sub>React Native · Expo · Supabase · Stripe test integration</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Shaswata28/StudyMate">StudyMate</a></h3>
-      <p>A privacy-conscious AI study assistant with course-aware conversations, document retrieval, and locally running language models.</p>
-      <sub>React · FastAPI · RAG · Ollama · Supabase</sub>
+      <sub>APPLIED AI · RAG</sub>
+      <p>A course-aware AI study companion with document retrieval and local language models.</p>
+      <sub>Python · RAG · LoRA · LLM inference</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Shaswata28/Momentum">Momentum</a></h3>
-      <p>An offline-first personal productivity and finance app, built around routines, focus sessions, and weekly insights.</p>
-      <sub>Flutter · Dart · Riverpod · Hive · WorkManager</sub>
+      <sub>PRODUCTIVITY · FLUTTER</sub>
+      <p>An offline-first routine and personal-finance tracker with weekly insights.</p>
+      <sub>Flutter · Riverpod · Hive · WorkManager</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Shaswata28/EDU-COIN">EDU-COIN</a></h3>
-      <p>A campus payment platform connecting student wallets, transactions, and administrative reporting.</p>
-      <sub>React · Node.js · TypeScript · Supabase · Stripe</sub>
+      <h3><a href="https://github.com/Shaswata28/SPYDER-Robot">S.P.Y.D.E.R.</a></h3>
+      <sub>ROBOTICS · EMBEDDED SYSTEMS</sub>
+      <p>A remotely controlled quadruped robot with a live ESP32-CAM video feed.</p>
+      <sub>Arduino Nano · 12 servo motors · ESP32-CAM</sub>
     </td>
   </tr>
 </table>
 
-**Also built:** [HarvestGuard](https://github.com/Shaswata28/HarvestGuard), an AI-assisted agricultural platform, and [S.P.Y.D.E.R.](https://github.com/Shaswata28/SPYDER-Robot), a Wi-Fi-controlled quadruped robot with live video streaming.
+<sub>Explore the rest of my work in <a href="https://github.com/Shaswata28?tab=repositories">all repositories</a>.</sub>
+
+## Tech stack
+
+<!-- One visual system for every chip: charcoal background + teal accent. -->
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=python" alt="Python" height="23" />
+  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=javascript" alt="JavaScript" height="23" />
+  <img src="https://img.shields.io/badge/Dart-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=dart" alt="Dart" height="23" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=cplusplus" alt="C++" height="23" />
+</p>
+
+**Backend & web**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=nodedotjs" alt="Node.js" height="23" />
+  <img src="https://img.shields.io/badge/React-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=react" alt="React" height="23" />
+  <img src="https://img.shields.io/badge/Supabase-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=supabase" alt="Supabase" height="23" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=postgresql" alt="PostgreSQL" height="23" />
+</p>
+
+**Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=react" alt="React Native" height="23" />
+  <img src="https://img.shields.io/badge/Expo-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=expo" alt="Expo" height="23" />
+  <img src="https://img.shields.io/badge/Flutter-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=flutter" alt="Flutter" height="23" />
+</p>
+
+**AI & research**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=pytorch" alt="PyTorch" height="23" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=huggingface" alt="Hugging Face" height="23" />
+  <img src="https://img.shields.io/badge/RAG-1F2937?style=flat&amp;logoColor=14B8A6" alt="RAG" height="23" />
+  <img src="https://img.shields.io/badge/LoRA-1F2937?style=flat&amp;logoColor=14B8A6" alt="LoRA" height="23" />
+</p>
+
+**Tools & hardware**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=docker" alt="Docker" height="23" />
+  <img src="https://img.shields.io/badge/Linux-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=linux" alt="Linux" height="23" />
+  <img src="https://img.shields.io/badge/Git-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=git" alt="Git" height="23" />
+  <img src="https://img.shields.io/badge/Arduino-1F2937?style=flat&amp;logoColor=14B8A6&amp;logo=arduino" alt="Arduino" height="23" />
+  <img src="https://img.shields.io/badge/ESP32-1F2937?style=flat&amp;logoColor=14B8A6" alt="ESP32" height="23" />
+</p>
 
 ## Research
 
-### Federated learning for multimodal medical image segmentation
+**Federated learning for brain tumor segmentation with medical vision-language models**
 
-I'm exploring how medical vision-language models can be adapted for **brain tumor segmentation** across decentralized, non-IID datasets. My thesis work investigates parameter-efficient fine-tuning and aggregation strategies, including **LoRA, FedProx, and SVD-based updates**, with centralized training as a comparison point.
+Exploring segmentation with parameter-efficient fine-tuning across decentralized, non-IID data. I compare centralized and federated baselines, including **FedAvg**, **FedProx**, and **SVD-based aggregation**. My broader interests include efficient AI, privacy-aware learning, and reliable model evaluation.
 
-**Research interests:** Federated learning · Medical vision-language models · Efficient model adaptation · Local LLMs
+## GitHub activity
 
-## Toolkit
+<!-- Live data from GitHub through third-party card generators; cards may be temporarily unavailable. -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shaswata28&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=14B8A6&amp;text_color=C9D1D9&amp;icon_color=14B8A6&amp;ring_color=14B8A6&amp;rank_icon=github&amp;show=reviews,discussions_started&amp;hide=contribs" />
+        <img width="100%" alt="Live GitHub overview" src="https://github-readme-stats.vercel.app/api?username=Shaswata28&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0D9488&amp;text_color=334155&amp;icon_color=0D9488&amp;ring_color=0D9488&amp;rank_icon=github&amp;show=reviews,discussions_started&amp;hide=contribs" />
+      </picture>
+    </td>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaswata28&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=14B8A6&amp;text_color=C9D1D9" />
+        <img width="100%" alt="Languages across public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaswata28&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0D9488&amp;text_color=334155" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | Python, TypeScript, JavaScript, Dart, C++ |
-| **Web & mobile** | React, React Native, Expo, Flutter, Node.js, FastAPI |
-| **Data & infrastructure** | PostgreSQL, Supabase, Docker, Git |
-| **AI & research** | PyTorch, Hugging Face Transformers, LoRA, RAG, Ollama |
+<!-- The contribution animation is generated in a GitHub Actions workflow after you run it once. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaswata28/Shaswata28/output/github-snake-dark.svg" />
+    <img alt="Teal animated snake moving through GitHub contributions" src="https://raw.githubusercontent.com/Shaswata28/Shaswata28/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
 
 ## Beyond code
 
-I've also served as **Convenor of the East Delta University Photography Club**, bringing together creative teams and partners to organize a national photography contest and exhibition. I value good execution, clear communication, and building things with other people.
+I served as **Convenor of East Delta University Photography Club**, coordinating creative teams, sponsorships, and a national photography contest and exhibition. I value ownership, design sense, and working well across disciplines.
 
-## Connect
+---
 
-I'm interested in software engineering opportunities and collaborations involving **backend/full-stack development and applied AI**.
+**Let's connect.** [GitHub](https://github.com/Shaswata28) · [All repositories](https://github.com/Shaswata28?tab=repositories)
 
-**[Explore my repositories](https://github.com/Shaswata28?tab=repositories)** · **[View my GitHub profile](https://github.com/Shaswata28)**
-
-<!-- Add your verified LinkedIn, portfolio, and professional email links here when ready. -->
+<!-- Optional: add your verified LinkedIn, portfolio and contact email here when ready. -->
