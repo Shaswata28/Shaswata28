@@ -5,7 +5,7 @@ I build mobile wallets and study tools, and sometimes write code that walks arou
 **Open to** backend and mobile engineering roles and federated learning collaborations.
 <!-- Add a way to reach you here: email, LinkedIn, or both. -->
 
-## ▶ Selected repositories
+## Selected repositories
 
 <table>
   <tr>
@@ -34,11 +34,11 @@ I build mobile wallets and study tools, and sometimes write code that walks arou
   </tr>
 </table>
 
-## ▶ Research
+## Research
 
 How much data do hospitals need to exchange to train a model that can outline a brain tumor on an MRI? I’m comparing ways to combine locally trained model updates, including FedAvg, FedProx, and low-rank aggregation, across sites with different patient data.
 
-## ▶ Skills
+## Skills
 
 <p>
   <img src="assets/web.svg" width="310" alt="Full stack: TypeScript, JavaScript, React, Node.js, PostgreSQL, Supabase">
@@ -50,11 +50,11 @@ How much data do hospitals need to exchange to train a model that can outline a 
   <img src="assets/tools.svg" width="310" alt="Systems and tools: C++, Arduino, ESP32, Git, Linux, Docker">
 </p>
 
-## ▶ Behind the lens
+## Behind the lens
 
 As convenor of the **East Delta University Photography Club**, I coordinated creative teams and sponsors for a national photography contest and exhibition.
 
-## ▶ GitHub activity
+## GitHub activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaswata28/Shaswata28/output/github-snake-dark.svg">
