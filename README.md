@@ -15,7 +15,7 @@ I build mobile wallets and study tools, and sometimes write code that walks arou
       <sub>Document retrieval · Local language models</sub>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/Shaswata28/DeltaCoin">DeltaCoin</a></strong><br>
+      <strong><a href="https://github.com/Shaswata28/DeltaCoinMobile">DeltaCoin</a></strong><br>
       Scan a QR code to pay a peer and track spending in a mobile wallet.<br>
       <sub>React Native · Expo · Supabase</sub>
     </td>
