@@ -2,6 +2,9 @@ name: Update contribution snake
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/snake.yml]
   schedule:
     - cron: "20 1 * * *"
 
@@ -12,13 +15,37 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate matching teal animations
+      - name: Generate pixel-art contribution snakes
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Shaswata28
           outputs: |
-            dist/github-snake.svg?color_snake=#14B8A6&color_dots=#EBEDF0,#D6F5F0,#A3E6DC,#55CBB9,#14B8A6
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#14B8A6&color_dots=#161B22,#123C38,#185E56,#168B7D,#14B8A6
+            dist/github-snake.svg?color_snake=#2E6BC4&color_dots=#E6D8B8,#EAC692,#EBA560,#E8671F,#964014
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#73A8FF&color_dots=#362B23,#63402A,#985026,#CC6124,#F5914B
+      - name: Add the pixel-art activity frame
+        shell: pwsh
+        run: |
+          foreach ($file in Get-Item dist/github-snake.svg, dist/github-snake-dark.svg -ErrorAction Stop) {
+            $source = Get-Content -LiteralPath $file.FullName -Raw
+            $svg = ([xml]$source).DocumentElement
+            $width = [int]$svg.GetAttribute('width') + 24
+            $height = [int]$svg.GetAttribute('height') + 54
+            $board = if ($file.BaseName.EndsWith('-dark')) { '#2E2116' } else { '#F3E6C8' }
+            $animation = $svg.OuterXml -replace '^<svg\b', '<svg x="12" y="42"'
+            $frame = @"
+          <svg xmlns="http://www.w3.org/2000/svg" width="$width" height="$height" viewBox="0 0 $width $height">
+            <style>@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+            <path d="M12 2 H$($width-12) V8 H$($width-6) V14 H$($width-2) V$($height-14) H$($width-6) V$($height-8) H$($width-12) V$($height-2) H12 V$($height-8) H6 V$($height-14) H2 V14 H6 V8 H12 Z" fill="$board" stroke="#BFAE88" stroke-width="4"/>
+            <path d="M12 4 H$($width-12) V10 H$($width-6) V16 H$($width-4) V40 H4 V16 H6 V10 H12 Z" fill="#E8671F"/>
+            <path d="M4 40 H$($width-4)" stroke="#2E2116" stroke-width="4"/>
+            <text x="24" y="29" font-family="Courier New, monospace" font-size="18" font-weight="700" letter-spacing="2" fill="#2E2116">CONTRIBUTION SNAKE</text>
+            <rect x="$($width-40)" y="13" width="18" height="18" fill="#2E6BC4" stroke="#2E2116" stroke-width="3"/>
+            $animation
+          </svg>
+          "@
+            $null = [xml]$frame
+            Set-Content -LiteralPath $file.FullName -Value $frame -Encoding utf8
+          }
       - name: Publish animations to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
